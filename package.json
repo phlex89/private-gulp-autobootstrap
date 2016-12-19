@@ -24,7 +24,7 @@
     "test": "./node_modules/mocha/bin/mocha"
   },
   "dependencies": {
-    "ng-autobootstrap": "git://github.com/phlex89/private-autobootstrap.git#8321f851def69975ff3f2acbbb8095e73a92746a",
+    "ng-autobootstrap": "git://github.com/phlex89/private-autobootstrap.git",
     "through2": "^0.5.1",
     "vinyl": "^0.3.2"
   },
