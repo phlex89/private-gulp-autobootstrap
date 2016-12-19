@@ -1,6 +1,6 @@
 {
-  "name": "gulp-ng-autobootstrap",
-  "version": "0.2.0",
+  "name": "gulp-ng-autobootstrap-private",
+  "version": "1.0.0",
   "description": "A gulp plugin to automatically create bootstrap files for requiring your angular modules with browserify.",
   "keywords": [
     "angular",
@@ -12,13 +12,13 @@
   "bugs": "https://github.com/maximilianschmitt/gulp-ng-autobootstrap/issues",
   "license": "MIT",
   "author": {
-    "name": "Maximilian Schmitt",
-    "email": "maximilian.schmitt@googlemail.com",
-    "url": "http://maximilianschmitt.me"
+    "name": "Steve",
+    "email": "",
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maximilianschmitt/gulp-ng-autobootstrap.git"
+    "url": "https://github.com/phlex89/private-gulp-autobootstrap.git"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
